@@ -26,7 +26,7 @@ github_username:  jekyll
 permalink: pretty
 
 # Build settings
-markdown: kramdown
+markdown: minima
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
