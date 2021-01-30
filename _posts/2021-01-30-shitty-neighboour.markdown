@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Father of the year cuts off his daughters health insurance because of an abnormal PAP"
+title: "Worst neighbours"
 date: 2021-01-31 00:06:32
 categories: blog, ahole, parents, relationships, kids
 ---
