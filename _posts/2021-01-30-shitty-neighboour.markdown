@@ -1,7 +1,12 @@
 ---
 layout: post
+<<<<<<< ours
 title: "Worst neighbours"
 date: 2021-01-31 00:06:32
+=======
+title: "Worst neighbours"
+date: 2021-01-30 00:06:42
+>>>>>>> theirs
 categories: blog, ahole, parents, relationships, kids
 ---
 
